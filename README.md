@@ -1,4 +1,4 @@
-# Frontend Internship Starter
+# Junior Frontend Playground
 
 A beginner-friendly React + Vite + TypeScript starter to practice front-end skills and ship small features.
 

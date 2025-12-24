@@ -73,7 +73,7 @@ function App() {
         </div>
       </section>
 
-      <section className="card grid">
+      <section id="roadmap" className="card grid">
         <header className="card__header">
           <div>
             <p className="eyebrow">Your first tasks</p>
@@ -102,7 +102,7 @@ function App() {
         </div>
       </section>
 
-      <section className="card">
+      <section id="ideas" className="card">
         <header className="card__header">
           <div>
             <p className="eyebrow">Practice idea</p>
@@ -123,7 +123,7 @@ function App() {
         </div>
       </section>
 
-      <section className="card">
+      <section id="habits" className="card">
         <header className="card__header">
           <div>
             <p className="eyebrow">What to practice weekly</p>
